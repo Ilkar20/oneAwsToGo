@@ -1,0 +1,17 @@
+
+.myEnvsContainer {
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: auto;
+}
+
+td {
+    vertical-align: middle;
+}
+
+.myEnvsCard {
+    margin-top: 10px;
+}
